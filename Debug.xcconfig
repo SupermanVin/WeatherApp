@@ -1,0 +1,5 @@
+//  Debug.xcconfig
+//  WeatherNow
+//  Created by Vino_Swify on 26/08/25.
+
+GATEWAY_KEY = 08206784-535B-4319-92E1-EF1DB36B98D8

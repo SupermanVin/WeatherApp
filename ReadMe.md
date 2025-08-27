@@ -140,9 +140,8 @@ WeatherNow/
 
 ## 9. 📸 Screenshots
 
-<p align="center">
-  <img src="Docs/Screenshots/HomeScreen.jpeg" width="250">
-</p>
+![Home Screen](https://raw.githubusercontent.com/SupermanVin/WeatherApp/main/WeatherNow/Docs/Screenshots/HomeScreen.jpeg)
+
 
 
 
